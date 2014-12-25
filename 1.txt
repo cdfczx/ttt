@@ -2,7 +2,6 @@ hello to the world !
 hello
 say anything !
 again merge
-dd
 eeeee
 ffffffffff
 add something
